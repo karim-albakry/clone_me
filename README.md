@@ -14,7 +14,3 @@ If the cloning process is successful, you should be able to see the contents of 
 ## Contributing
 
 "Clone_me" is intended to be a simple and lightweight tool for testing the `git clone` command. If you have any suggestions or improvements, please feel free to fork this repository and submit a pull request.
-
-## License
-
-"Clone_me" is released under the MIT License. See [LICENSE](LICENSE) for more information.
