@@ -1,0 +1,1 @@
+This is a small file for testing the `git clone` command. If you can see this text, it means that the cloning process was successful! This file can be used in automated testing or manual testing of the `git clone` command, and is intended to be as small and simple as possible to facilitate testing. Thanks for using "clone_me" for your testing needs!
