@@ -1,4 +1,4 @@
-# Clone_me
+# Clone Me
 
 "Clone_me" is a small public repository on GitHub that is specifically designed to test the functionality of the `git clone` command. The repository contains only a single file, which is intentionally kept small and simple to ensure that the cloning process is as fast and efficient as possible. The repository is intended to be used by developers as a tool to test the `git clone` functionality of their automated tools and systems. 
 
